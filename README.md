@@ -1,2 +1,2 @@
 # sb-j21-vt
-todo: java21 virtual thread
+仮想スレッドの確認用
